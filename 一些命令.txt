@@ -1,0 +1,13 @@
+下载 github release文件 curl -LJO xxx
+
+傻妞qq登陆 pm2 start "node main xxx"
+
+
+ninja 可用，能登陆。
+
+
+docker exec it qinglong bash
+
+nohup python3 xx.py >/dev/null 2>&1 &
+
+cat /proc/version
